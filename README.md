@@ -32,35 +32,6 @@ My goal is to contribute to impactful projects, continuously improve my skills, 
 
 ---
 
-## 🎓 Education
-
-### 🎓 Master Data Science & Intelligence Artificielle  
-**Université Mundiapolis – Casablanca**  
-📅 2023 – 2025  
-
-### 🎓 Bachelor’s Degree – Mathematics & Computer Science (Database Track)  
-**Faculty of Sciences Ben M’Sik – Casablanca**  
-📅 2022 – 2023  
-
----
-
-## 🚀 AI-Augmented Data Analyst Training
-
-### 🤖 Data Analyst Augmenté par l’IA  
-**JobInTech – AI Institute by Holmarcom**  
-📅 2025 – 2026  
-
-Intensive, hands-on training focused on **real-world data projects**, combining:
-- Advanced data analysis  
-- Business intelligence & dashboards  
-- Machine learning & AI tools  
-- End-to-end data pipelines  
-- Industry-oriented best practices  
-
-🌐 Program link: https://ai-institute-jobintech.com/
-
----
-
 ## 🧠 Technical Skills
 
 ### 🔹 Data Analysis & Statistics
