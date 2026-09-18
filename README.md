@@ -16,7 +16,8 @@ I hold a **Master’s degree in Data Science & Artificial Intelligence** and I a
 I am passionate about data analytics, machine learning, and building intelligent, data-driven solutions with real-world impact.
 
 🔗 **LinkedIn**: https://www.linkedin.com/in/ghizlane-baali-a42505267/  
-💻 **GitHub**: https://github.com/Ghizlane8  
+💻 **GitHub**: https://github.com/Ghizlane8
+🌐 **Portfolio**: https://bl-ghizla-ne.vercel.app/
 📧 **Email**: baali.ghizlane2@gmail.com  
 
 ---
