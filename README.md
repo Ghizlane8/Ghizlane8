@@ -17,7 +17,9 @@ I am passionate about data analytics, machine learning, and building intelligent
 
 🔗 **LinkedIn**: https://www.linkedin.com/in/ghizlane-baali-a42505267/  
 💻 **GitHub**: https://github.com/Ghizlane8
+
 🌐 **Portfolio**: https://bl-ghizla-ne.vercel.app/
+
 📧 **Email**: baali.ghizlane2@gmail.com  
 
 ---
